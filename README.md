@@ -4,4 +4,4 @@ Acesse https://reactnative.dev/docs/getting-started-without-a-framework para con
 
 depois só baixar o arquivo e rodar no cmd npx react-native run-android
 
-só testar, funciona com aparelho android virtualizado e o fisico por via usb com depuração andropid habilitada.
+só testar, funciona com aparelho android virtualizado e o fisico por via usb com depuração android habilitada.
